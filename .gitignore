@@ -1,0 +1,5 @@
+node_modules
+.clasp*
+creds.json
+package-lock.json
+dist
